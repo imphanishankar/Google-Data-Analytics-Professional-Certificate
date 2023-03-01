@@ -1,15 +1,12 @@
 ## [**Google Data Analytics Professional Certificate**](https://www.coursera.org/professional-certificates/google-data-analytics)
-
 - - - -
-
 ### [My Certificate URL](https://coursera.org/share/5ccd7d65a5463bd2a1a7f77cc861184c)
-#
 ![](https://drive.google.com/uc?export=view&id=1x53x-0iyTT8tKE4FUMGdrLzqeU0uBNmI)
 
 - - - -
 
 ### **About the certificate**:
-  The Google Data Analytics Professional Certificate is a comprehensive program designed to teach participants how to use data to solve business problems. The program is offered through Coursera, a leading online learning platform, and is developed by Google.
+The Google Data Analytics Professional Certificate is a comprehensive program designed to teach participants how to use data to solve business problems. The program is offered through Coursera, a leading online learning platform, and is developed by Google.
 
 The certificate program consists of eight courses, each of which covers a different aspect of data analytics. The courses are:
 
